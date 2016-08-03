@@ -37,4 +37,4 @@ self.navigationItem.leftBarButtonItem = [self createLeftBarButtonItem:@"" target
 
 个人博客: http://jamiepoet.github.io
 
-欢迎大家关注回复或加我QQ讨论交流, QQ:2726786161，一起学习，探讨。
+欢迎大家关注回复或加我QQ:2726786161，一起学习，探讨。
