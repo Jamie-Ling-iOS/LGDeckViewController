@@ -35,5 +35,6 @@ self.navigationItem.leftBarButtonItem = [self createLeftBarButtonItem:@"" target
     }
 }
 
-后期会陆续有一些常用个人封装模块放上来。
-有问题或其它意见，欢迎加Q或联系QQ 410296011@qq.com，一起学习，探讨。
+个人博客: http://jamiepoet.github.io
+
+欢迎大家关注回复或加我QQ讨论交流, QQ:2726786161，一起学习，探讨。
